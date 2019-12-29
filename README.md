@@ -20,6 +20,7 @@ Demo:
 ### Code Explain 
 - **Step 1** .Display Images and Rectangle box
 
+ Randomly produce imageY in three places (50, 250 , 450)
 ```python
 #generate random position for those three colors
 blue_dis = random.randrange (50,450,200)
@@ -43,6 +44,7 @@ elif blue_dis == 250:
         green_dis = 50   
 ```
 
+ display images and rectangle box
 ```python
     #insert logo function with random position
     InsertLogo_2(frame,blue_img,yBluelogo,blue_dis)
