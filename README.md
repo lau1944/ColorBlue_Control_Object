@@ -1,11 +1,14 @@
 # ColorBlue_Control_Object
 Using OpenCV2 detects blue color , control images position on screen (put the right color in the box !)
 
+利用颜色控制窗口内目标图片
 ### A Game Using OpenCV2 To Control Images
 
 After detect color blue, a red point will display on the center of the color blue
 
 Move the red point to the images **slowly** and control the images !
+
+使用时将蓝色中心区域的红点对准图片，缓慢移动图片
 
 Demo:
 <p align="center">
